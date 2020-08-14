@@ -2,7 +2,7 @@ DDJS
 
 DDJS - Most powerful dos tool By Jons
 
-COMPILE
+**COMPILE**
 
 ```gcc -o DDJS DDJS.c```
 
